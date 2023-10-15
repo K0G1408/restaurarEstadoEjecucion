@@ -1,0 +1,11 @@
+[{
+    "id": 1,
+    "origen_x": 1,
+    "origen_y": 0,
+    "destino_x": 1,
+    "destino_y": 1,
+    "velocidad": 0,
+    "red": 1,
+    "green": 0,
+    "blue": 1
+}]
